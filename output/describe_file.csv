@@ -127,3 +127,11 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2025-12-16T01:15:17.423744,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
 2025-12-16T01:15:17.447184,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/0b7256de-c036-463d-b8d3-64e0bed2dcd6.json,0b7256de-c036-463d-b8d3-64e0bed2dcd6,json,1160,2,2025-12-16T00:15:19
 2025-12-16T01:15:24.775622,Phishtank,csv,https://data.phishtank.com/data/online-valid.csv,,csv,46981,,
+2025-12-17T01:10:15.390294,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,4648,,
+2025-12-17T01:10:15.430335,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,9653,,
+2025-12-17T01:10:15.505991,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2025-12-17T01:10:17.285939,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,8640,,
+2025-12-17T01:10:17.343251,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//caef1815-aab5-4dfa-816a-262c76a79ffe.json,caef1815-aab5-4dfa-816a-262c76a79ffe,json,2628,2,2025-12-17T00:03:01
+2025-12-17T01:10:24.628799,Phishtank,csv,https://data.phishtank.com/data/online-valid.csv,,csv,46859,,
+2025-12-17T01:10:24.666756,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/33c025d3-6ab7-4343-a33d-968ff0cabde8.json,33c025d3-6ab7-4343-a33d-968ff0cabde8,json,1129,2,2025-12-17T00:15:15
+2025-12-17T01:10:24.677166,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/88eb1381-c315-428a-ae18-0a7b985475dc.json,88eb1381-c315-428a-ae18-0a7b985475dc,json,690,2,2025-12-17T00:03:05
