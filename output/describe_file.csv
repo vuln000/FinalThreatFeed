@@ -305,3 +305,11 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-01-08T01:17:09.986687,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/c9e12b44-e5c9-4607-b0dd-95f077decf3e.json,c9e12b44-e5c9-4607-b0dd-95f077decf3e,json,1058,2,2026-01-08T00:15:26
 2026-01-08T01:17:10.158464,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//21845302-137c-4cee-b412-5e0bca4ae506.json,21845302-137c-4cee-b412-5e0bca4ae506,json,1000,2,2026-01-08T00:03:01
 2026-01-08T01:17:17.335384,Phishtank,csv,https://data.phishtank.com/data/online-valid.csv,,csv,46178,,
+2026-01-09T01:17:22.247071,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,3697,,
+2026-01-09T01:17:22.281121,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//bbdb8d77-6990-40eb-96c0-98dc7ae616e1.json,bbdb8d77-6990-40eb-96c0-98dc7ae616e1,json,872,2,2026-01-09T00:03:02
+2026-01-09T01:17:22.320421,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,9588,,
+2026-01-09T01:17:24.015448,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,8745,,
+2026-01-09T01:17:24.058741,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-01-09T01:17:24.185799,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/2175ac78-60cf-4976-a3bf-087287bf7503.json,2175ac78-60cf-4976-a3bf-087287bf7503,json,584,2,2026-01-09T00:03:07
+2026-01-09T01:17:24.219181,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/8333b88c-705f-4ad6-a145-120d537ef262.json,8333b88c-705f-4ad6-a145-120d537ef262,json,1346,2,2026-01-09T00:15:22
+2026-01-09T01:17:31.382056,Phishtank,csv,https://data.phishtank.com/data/online-valid.csv,,csv,46213,,
