@@ -1640,3 +1640,12 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-06-09T02:37:12.284390,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/7c4b78f5-f328-49a3-a3e2-fda2ad4eb2bd.json,7c4b78f5-f328-49a3-a3e2-fda2ad4eb2bd,json,595,2,2026-06-09T00:03:07
 2026-06-09T02:37:12.309720,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/7ecd3df7-21c5-403d-a70e-0a7704dea33d.json,7ecd3df7-21c5-403d-a70e-0a7704dea33d,json,1028,2,2026-06-09T00:15:27
 2026-06-09T02:37:21.326472,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//4a45e589-c851-41a9-b4c0-249de14eceeb.json,4a45e589-c851-41a9-b4c0-249de14eceeb,json,8242,2,2026-06-08T20:00:04
+2026-06-10T02:51:06.239719,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,3731,,
+2026-06-10T02:51:06.342200,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,8804,,
+2026-06-10T02:51:06.457649,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-06-10T02:51:06.501456,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//96d03b96-a54d-4612-895a-e2073f4c19d0.json,96d03b96-a54d-4612-895a-e2073f4c19d0,json,1612,2,2026-06-10T00:03:02
+2026-06-10T02:51:07.283935,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5686,,
+2026-06-10T02:51:07.320058,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/f458f486-6886-4b9f-bf95-0777edbd0d91.json,f458f486-6886-4b9f-bf95-0777edbd0d91,json,1004,2,2026-06-10T00:15:21
+2026-06-10T02:51:08.771877,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,9904,,
+2026-06-10T02:51:08.782116,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/9d2bfdbf-bed5-4a0e-b0f1-b8cf846efced.json,9d2bfdbf-bed5-4a0e-b0f1-b8cf846efced,json,382,2,2026-06-10T00:03:08
+2026-06-10T02:51:09.975593,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//70a24add-ca6c-48d7-8196-280b648237fd.json,70a24add-ca6c-48d7-8196-280b648237fd,json,213,2,2026-06-09T20:00:10
