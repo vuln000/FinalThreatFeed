@@ -2,8 +2,8 @@ name: Daily Run
 
 on:
   schedule:
-    # 每天UTC时间0点运行（北京时间早上8点）
-    - cron: '0 0 * * *'
+    # 每天UTC时间20点运行（北京时间早上4点）
+    - cron: '0 20 * * *'
   # 允许手动触发
   workflow_dispatch:
 
