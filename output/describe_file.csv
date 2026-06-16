@@ -1699,3 +1699,12 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-06-15T22:22:34.928528,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/8029d715-1bc3-44b3-9d9d-771734dee93c.json,8029d715-1bc3-44b3-9d9d-771734dee93c,json,582,2,2026-06-15T00:15:27
 2026-06-15T22:22:34.936682,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/931fe070-036f-4714-8f67-6d2e527f4390.json,931fe070-036f-4714-8f67-6d2e527f4390,json,534,2,2026-06-15T00:03:07
 2026-06-15T22:22:39.171931,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//5141a946-6109-4a37-821e-83eb8a281e2f.json,5141a946-6109-4a37-821e-83eb8a281e2f,json,150,2,2026-06-15T20:00:08
+2026-06-16T22:16:39.009199,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,8601,,
+2026-06-16T22:16:39.040995,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,3846,,
+2026-06-16T22:16:39.810247,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5679,,
+2026-06-16T22:16:39.886402,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-06-16T22:16:41.465397,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,9983,,
+2026-06-16T22:16:41.486555,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/e3479bfd-6ad4-47e0-97f0-962e7eea20e3.json,e3479bfd-6ad4-47e0-97f0-962e7eea20e3,json,315,2,2026-06-16T00:03:06
+2026-06-16T22:16:43.307251,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/1b6e8e08-09eb-49d7-ab36-f16338cd87a1.json,1b6e8e08-09eb-49d7-ab36-f16338cd87a1,json,877,2,2026-06-16T00:15:24
+2026-06-16T22:16:43.746474,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//1b1b2b3c-dce6-47af-b522-c111f455e0ae.json,1b1b2b3c-dce6-47af-b522-c111f455e0ae,json,2120,2,2026-06-16T00:03:02
+2026-06-16T22:16:50.967940,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//869bde21-bfc1-48fa-a7ff-0fd0bef879f5.json,869bde21-bfc1-48fa-a7ff-0fd0bef879f5,json,200,2,2026-06-16T16:00:06
