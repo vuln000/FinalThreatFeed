@@ -1831,3 +1831,12 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-06-30T21:40:53.367784,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10082,,
 2026-06-30T21:40:53.389696,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/88cedf45-7d2d-4b21-8f02-3634a1ec8b3d.json,88cedf45-7d2d-4b21-8f02-3634a1ec8b3d,json,1331,2,2026-06-30T00:03:07
 2026-06-30T21:40:56.895043,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//413d6ff6-63bb-4251-940c-7e1fa522edee.json,413d6ff6-63bb-4251-940c-7e1fa522edee,json,143,2,2026-06-30T18:00:07
+2026-07-01T21:40:38.011470,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,3562,,
+2026-07-01T21:40:38.043128,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,7443,,
+2026-07-01T21:40:38.129007,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-07-01T21:40:39.003667,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5687,,
+2026-07-01T21:40:40.605118,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10082,,
+2026-07-01T21:40:40.702943,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/fd5e6804-86c0-4ad8-8f27-60e1508d2974.json,fd5e6804-86c0-4ad8-8f27-60e1508d2974,json,301,2,2026-07-01T00:03:06
+2026-07-01T21:40:40.723296,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/0446cd07-c4d6-488c-baf2-e3596cf34bd9.json,0446cd07-c4d6-488c-baf2-e3596cf34bd9,json,748,2,2026-07-01T00:15:29
+2026-07-01T21:40:40.749967,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//1aaa1275-d20e-4ab5-a309-56b8b33e21c7.json,1aaa1275-d20e-4ab5-a309-56b8b33e21c7,json,1252,2,2026-07-01T00:03:02
+2026-07-01T21:40:45.152424,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//3e67f8da-8429-4221-bd17-57600f7a6969.json,3e67f8da-8429-4221-bd17-57600f7a6969,json,1338,2,2026-07-01T14:02:45
