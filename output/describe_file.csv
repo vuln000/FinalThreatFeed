@@ -1858,3 +1858,12 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-07-03T21:11:57.597221,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
 2026-07-03T21:11:59.846258,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//e86d7cf4-e256-4868-8752-2692bd2121eb.json,e86d7cf4-e256-4868-8752-2692bd2121eb,json,1468,2,2026-07-03T00:03:01
 2026-07-03T21:12:00.900993,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//30154841-a2c0-4cb9-900c-a874c1d31d36.json,30154841-a2c0-4cb9-900c-a874c1d31d36,json,1251,2,2026-07-03T16:00:20
+2026-07-04T21:01:58.596255,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,7036,,
+2026-07-04T21:01:58.615276,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,3102,,
+2026-07-04T21:01:59.725405,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5703,,
+2026-07-04T21:01:59.889379,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-07-04T21:02:00.091300,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//537500df-02a6-475d-9499-4597b1658579.json,537500df-02a6-475d-9499-4597b1658579,json,1276,2,2026-07-04T00:03:02
+2026-07-04T21:02:02.106982,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10100,,
+2026-07-04T21:02:02.346230,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/e27e5e09-1e7e-4f06-b6fc-877936100793.json,e27e5e09-1e7e-4f06-b6fc-877936100793,json,366,2,2026-07-04T00:03:08
+2026-07-04T21:02:02.406147,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/b7ca4266-d7ab-4860-9776-8ffa8bb8b7ab.json,b7ca4266-d7ab-4860-9776-8ffa8bb8b7ab,json,627,2,2026-07-04T00:15:24
+2026-07-04T21:02:06.622048,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//9954f3b0-35a0-4f57-b637-9a43cee2940e.json,9954f3b0-35a0-4f57-b637-9a43cee2940e,json,406,2,2026-07-04T14:00:04
