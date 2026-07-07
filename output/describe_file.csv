@@ -1885,3 +1885,12 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-07-06T21:40:03.750671,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//1df78f9a-6c9c-429a-a840-698b189cb950.json,1df78f9a-6c9c-429a-a840-698b189cb950,json,808,2,2026-07-06T00:03:02
 2026-07-06T21:40:03.764486,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/39b01815-5f90-4f0f-abaa-e51494def57f.json,39b01815-5f90-4f0f-abaa-e51494def57f,json,428,2,2026-07-06T00:15:25
 2026-07-06T21:40:10.061503,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//f7b99d14-f07f-41b5-b9bf-13e59b152219.json,f7b99d14-f07f-41b5-b9bf-13e59b152219,json,192,2,2026-07-06T18:00:06
+2026-07-07T21:27:22.698615,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,3199,,
+2026-07-07T21:27:22.796250,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,7111,,
+2026-07-07T21:27:22.850690,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/c4cd9093-c613-4240-9f6f-54b3b81a839f.json,c4cd9093-c613-4240-9f6f-54b3b81a839f,json,543,2,2026-07-07T00:15:24
+2026-07-07T21:27:22.939752,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-07-07T21:27:24.047752,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5728,,
+2026-07-07T21:27:26.048789,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10126,,
+2026-07-07T21:27:26.133658,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/6fa4b953-c68d-444e-b4e4-3f42996b8025.json,6fa4b953-c68d-444e-b4e4-3f42996b8025,json,480,2,2026-07-07T00:03:07
+2026-07-07T21:27:26.189306,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//d9819e49-2da7-45bf-8c2f-f2a6cd503580.json,d9819e49-2da7-45bf-8c2f-f2a6cd503580,json,1264,2,2026-07-07T00:03:02
+2026-07-07T21:27:30.029320,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//1b707c7f-3b81-4d91-bf4c-43199ac59886.json,1b707c7f-3b81-4d91-bf4c-43199ac59886,json,68,2,2026-07-07T14:00:07
