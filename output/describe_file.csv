@@ -1911,3 +1911,12 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-07-09T21:26:06.199452,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/df7964c0-40d0-47c5-bafd-2603f691e380.json,df7964c0-40d0-47c5-bafd-2603f691e380,json,578,2,2026-07-09T00:03:10
 2026-07-09T21:26:06.219584,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/ea13177a-09f7-4c30-b234-9a8858d01d15.json,ea13177a-09f7-4c30-b234-9a8858d01d15,json,647,2,2026-07-09T00:15:24
 2026-07-09T21:26:11.027351,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//9fe21642-bde3-48a9-8865-7e7c6367b5b4.json,9fe21642-bde3-48a9-8865-7e7c6367b5b4,json,177,2,2026-07-09T16:00:06
+2026-07-10T21:09:13.909929,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,3085,,
+2026-07-10T21:09:13.948754,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,7730,,
+2026-07-10T21:09:14.812596,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5740,,
+2026-07-10T21:09:16.327719,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10154,,
+2026-07-10T21:09:16.362443,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-07-10T21:09:16.454917,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/71d74f2f-5b6c-40ed-b50f-ed6ea12e684e.json,71d74f2f-5b6c-40ed-b50f-ed6ea12e684e,json,1012,2,2026-07-10T00:03:07
+2026-07-10T21:09:16.479261,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/1a418597-bcf3-456b-b749-ac889957d943.json,1a418597-bcf3-456b-b749-ac889957d943,json,709,2,2026-07-10T01:20:25
+2026-07-10T21:09:16.510598,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//4ef8bb47-bf03-43bc-b463-d5c3dee2e1e8.json,4ef8bb47-bf03-43bc-b463-d5c3dee2e1e8,json,1388,2,2026-07-09T00:03:02
+2026-07-10T21:09:16.701559,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//ec29ab8b-4459-4519-9410-789f73ad65bb.json,ec29ab8b-4459-4519-9410-789f73ad65bb,json,1488,2,2026-07-10T00:03:01
