@@ -2019,3 +2019,12 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-07-21T21:14:38.207261,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/6920e0cc-7efc-4a75-a8f6-fc8b1c8e3dcc.json,6920e0cc-7efc-4a75-a8f6-fc8b1c8e3dcc,json,577,2,2026-07-21T00:03:07
 2026-07-21T21:14:38.251825,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//b5e501d4-376c-4be6-ad63-eb7be0fc2f46.json,b5e501d4-376c-4be6-ad63-eb7be0fc2f46,json,1672,2,2026-07-21T00:03:01
 2026-07-21T21:14:41.592953,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//dfc9ef66-d6ff-4417-901f-801bb22384a3.json,dfc9ef66-d6ff-4417-901f-801bb22384a3,json,699,2,2026-07-21T15:00:09
+2026-07-22T21:13:12.921067,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,7749,,
+2026-07-22T21:13:12.932243,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,2325,,
+2026-07-22T21:13:12.988057,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-07-22T21:13:15.008102,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10240,,
+2026-07-22T21:13:16.123744,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5810,,
+2026-07-22T21:13:16.250228,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//ee072695-5ea6-4b09-836f-f81def3caa37.json,ee072695-5ea6-4b09-836f-f81def3caa37,json,1524,2,2026-07-22T00:03:02
+2026-07-22T21:13:16.308671,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/7deb8371-5d89-41d4-87f0-8059f53d8c8c.json,7deb8371-5d89-41d4-87f0-8059f53d8c8c,json,444,2,2026-07-22T00:03:07
+2026-07-22T21:13:16.335761,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/57ec7406-c2ee-4e11-8801-1dcd7c7ab4a7.json,57ec7406-c2ee-4e11-8801-1dcd7c7ab4a7,json,976,2,2026-07-22T00:15:30
+2026-07-22T21:13:21.561242,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//d9b9dbfc-bafc-45e6-a432-83d76d6c2847.json,d9b9dbfc-bafc-45e6-a432-83d76d6c2847,json,295,2,2026-07-22T13:00:08
