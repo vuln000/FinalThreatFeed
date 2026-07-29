@@ -2082,3 +2082,12 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-07-28T21:11:32.199809,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/e63abd05-3cbd-4ae3-9907-c7d2bbf306b6.json,e63abd05-3cbd-4ae3-9907-c7d2bbf306b6,json,1241,2,2026-07-28T00:03:06
 2026-07-28T21:11:32.249527,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//52f2cf90-07cd-4393-8605-a5f4e367e381.json,52f2cf90-07cd-4393-8605-a5f4e367e381,json,2188,2,2026-07-28T00:03:02
 2026-07-28T21:11:38.673588,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//bcf9036e-b356-45a7-8191-dd4ffec7d159.json,bcf9036e-b356-45a7-8191-dd4ffec7d159,json,118,2,2026-07-28T12:00:07
+2026-07-29T21:00:00.539785,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10267,,
+2026-07-29T21:00:00.598274,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-07-29T21:00:00.603604,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,1277,,
+2026-07-29T21:00:00.623628,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,5479,,
+2026-07-29T21:00:01.693613,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5700,,
+2026-07-29T21:00:01.926201,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/86108fbe-b323-4942-a9b5-aa36b72fe056.json,86108fbe-b323-4942-a9b5-aa36b72fe056,json,707,2,2026-07-29T00:03:06
+2026-07-29T21:00:02.007739,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/8501c7e6-cea9-462a-947a-73823fd377ed.json,8501c7e6-cea9-462a-947a-73823fd377ed,json,800,2,2026-07-29T00:15:21
+2026-07-29T21:00:02.068998,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//7df11b49-e9cb-4064-85ac-e23632e2b987.json,7df11b49-e9cb-4064-85ac-e23632e2b987,json,1992,2,2026-07-29T00:03:02
+2026-07-29T21:00:10.705905,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//9f824470-689b-4047-b487-03f572d4cb3f.json,9f824470-689b-4047-b487-03f572d4cb3f,json,410,2,2026-07-29T17:00:05
