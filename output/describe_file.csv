@@ -2118,3 +2118,12 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-08-01T20:57:43.678982,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5572,,
 2026-08-01T20:57:43.725179,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//0bedb1e9-7308-45d8-837e-25bb1688b766.json,0bedb1e9-7308-45d8-837e-25bb1688b766,json,1516,2,2026-08-01T00:03:02
 2026-08-01T20:57:51.700232,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//183b6a5f-ebc1-4575-ac91-87e2e13c3731.json,183b6a5f-ebc1-4575-ac91-87e2e13c3731,json,17,2,2026-08-01T13:00:07
+2026-08-02T20:59:19.843636,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,6525,,
+2026-08-02T20:59:19.854229,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,1732,,
+2026-08-02T20:59:20.986969,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5577,,
+2026-08-02T20:59:21.032673,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-08-02T20:59:23.040058,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10274,,
+2026-08-02T20:59:23.139255,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//353bba06-fa66-4d41-8636-4792fcbfac12.json,353bba06-fa66-4d41-8636-4792fcbfac12,json,1048,2,2026-08-02T00:03:01
+2026-08-02T20:59:23.213871,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/d16ff9ad-a9bb-4212-a3d7-c1f6f6431063.json,d16ff9ad-a9bb-4212-a3d7-c1f6f6431063,json,616,2,2026-08-02T00:15:17
+2026-08-02T20:59:23.230053,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/130cd458-5a67-40ac-be62-c82612ecd133.json,130cd458-5a67-40ac-be62-c82612ecd133,json,582,2,2026-08-02T00:03:06
+2026-08-02T20:59:28.528213,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//c2d3498b-60ea-4a1f-9a70-b3ff82056cb2.json,c2d3498b-60ea-4a1f-9a70-b3ff82056cb2,json,1303,2,2026-08-02T14:00:08
