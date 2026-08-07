@@ -2154,3 +2154,13 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-08-05T21:14:37.861732,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/b63d6cd3-1bb2-4836-aa89-42c863c6327c.json,b63d6cd3-1bb2-4836-aa89-42c863c6327c,json,1213,2,2026-08-05T00:15:20
 2026-08-05T21:14:37.920737,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//7076149c-d06b-4f3f-a383-ac18a4c63f20.json,7076149c-d06b-4f3f-a383-ac18a4c63f20,json,2820,2,2026-08-05T00:03:02
 2026-08-05T21:14:42.313926,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//92b57f45-754e-4180-9032-1fee1714bf71.json,92b57f45-754e-4180-9032-1fee1714bf71,json,315,2,2026-08-05T14:00:14
+2026-08-07T00:53:39.647497,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,1680,,
+2026-08-07T00:53:39.673924,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,5954,,
+2026-08-07T00:53:40.722629,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5590,,
+2026-08-07T00:53:40.781799,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-08-07T00:53:44.606231,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/bcaf4eeb-7d6d-4f2c-803a-067cafaf392c.json,bcaf4eeb-7d6d-4f2c-803a-067cafaf392c,json,806,2,2026-08-06T00:15:20
+2026-08-07T00:53:44.629473,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/90005a1b-1c60-4cad-8882-82b0d7142a57.json,90005a1b-1c60-4cad-8882-82b0d7142a57,json,1152,2,2026-08-07T00:15:29
+2026-08-07T00:53:46.583162,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10329,,
+2026-08-07T00:53:46.599595,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/0208ac12-7865-4700-bac5-048dbec34d9f.json,0208ac12-7865-4700-bac5-048dbec34d9f,json,548,2,2026-08-06T00:03:08
+2026-08-07T00:53:46.638346,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//0fbde8dc-1fe7-4b28-b4d6-4ecb65862446.json,0fbde8dc-1fe7-4b28-b4d6-4ecb65862446,json,1856,2,2026-08-06T00:03:02
+2026-08-07T00:53:46.927581,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/a60a30ab-e752-452d-93c0-791bcb46e2ef.json,a60a30ab-e752-452d-93c0-791bcb46e2ef,json,484,2,2026-08-07T00:03:07
