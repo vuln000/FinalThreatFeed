@@ -2171,3 +2171,12 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-08-07T20:45:02.979199,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//761bc4c7-9410-4ab1-b43c-ed9516b1f2f3.json,761bc4c7-9410-4ab1-b43c-ed9516b1f2f3,json,2804,2,2026-08-07T00:03:02
 2026-08-07T20:45:08.837115,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10341,,
 2026-08-07T20:45:13.435178,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//98fa60ea-d504-4e63-8766-d8c331f902e5.json,98fa60ea-d504-4e63-8766-d8c331f902e5,json,7859,2,2026-08-07T16:57:53
+2026-08-08T20:34:01.057572,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,1774,,
+2026-08-08T20:34:01.088176,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,6767,,
+2026-08-08T20:34:01.144863,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-08-08T20:34:02.223825,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5610,,
+2026-08-08T20:34:04.325366,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10354,,
+2026-08-08T20:34:04.424268,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/22790245-832a-409e-a0ad-559f2c835e4f.json,22790245-832a-409e-a0ad-559f2c835e4f,json,904,2,2026-08-08T00:03:07
+2026-08-08T20:34:04.440492,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/96741711-b8e5-4eef-9afc-a307cea52a2d.json,96741711-b8e5-4eef-9afc-a307cea52a2d,json,602,2,2026-08-08T00:15:19
+2026-08-08T20:34:04.479568,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//21254f05-6789-4eb8-a60b-33b99ba057fc.json,21254f05-6789-4eb8-a60b-33b99ba057fc,json,1476,2,2026-08-08T00:03:01
+2026-08-08T20:34:10.659519,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//da6cf323-074f-4272-8ddd-8fddddac8690.json,da6cf323-074f-4272-8ddd-8fddddac8690,json,5,2,2026-08-08T12:00:05
