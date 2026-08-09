@@ -2180,3 +2180,12 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-08-08T20:34:04.440492,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/96741711-b8e5-4eef-9afc-a307cea52a2d.json,96741711-b8e5-4eef-9afc-a307cea52a2d,json,602,2,2026-08-08T00:15:19
 2026-08-08T20:34:04.479568,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//21254f05-6789-4eb8-a60b-33b99ba057fc.json,21254f05-6789-4eb8-a60b-33b99ba057fc,json,1476,2,2026-08-08T00:03:01
 2026-08-08T20:34:10.659519,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//da6cf323-074f-4272-8ddd-8fddddac8690.json,da6cf323-074f-4272-8ddd-8fddddac8690,json,5,2,2026-08-08T12:00:05
+2026-08-09T20:36:28.676537,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,6781,,
+2026-08-09T20:36:28.691273,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,1947,,
+2026-08-09T20:36:29.461902,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5606,,
+2026-08-09T20:36:29.520201,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-08-09T20:36:29.714626,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//6b30549b-5eb6-498b-ab45-53efecc28fe1.json,6b30549b-5eb6-498b-ab45-53efecc28fe1,json,1596,2,2026-08-09T00:03:02
+2026-08-09T20:36:31.349811,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10356,,
+2026-08-09T20:36:31.368378,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/398259f8-2c3b-4077-8e20-3c26c2b31ad6.json,398259f8-2c3b-4077-8e20-3c26c2b31ad6,json,669,2,2026-08-09T00:03:08
+2026-08-09T20:36:31.415629,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/d77584bf-e3d0-4c15-8f63-2851583f81da.json,d77584bf-e3d0-4c15-8f63-2851583f81da,json,1742,2,2026-08-09T00:15:22
+2026-08-09T20:36:37.868546,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//118e66a6-103e-4d16-bf65-5ff0b6ecf532.json,118e66a6-103e-4d16-bf65-5ff0b6ecf532,json,358,2,2026-08-09T19:00:08
