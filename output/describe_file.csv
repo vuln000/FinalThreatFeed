@@ -2223,3 +2223,13 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-08-13T20:48:25.257673,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5633,,
 2026-08-13T20:48:25.334583,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/9c1e81ea-91d6-4cba-8817-99f61fabf121.json,9c1e81ea-91d6-4cba-8817-99f61fabf121,json,995,2,2026-08-13T00:15:33
 2026-08-13T20:48:25.450511,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/31366911-3300-4ead-8b1d-ee2a3bdbcecf.json,31366911-3300-4ead-8b1d-ee2a3bdbcecf,json,838,2,2026-08-13T00:03:08
+2026-08-14T20:34:25.675563,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,2188,,
+2026-08-14T20:34:25.765487,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,6826,,
+2026-08-14T20:34:27.749764,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10440,,
+2026-08-14T20:34:28.842323,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5653,,
+2026-08-14T20:34:28.981227,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-08-14T20:34:29.013371,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/480509ba-6a5c-4c8b-902a-c2fc5c7d4ceb.json,480509ba-6a5c-4c8b-902a-c2fc5c7d4ceb,json,554,2,2026-08-14T00:03:08
+2026-08-14T20:34:29.063350,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/ca5e619f-1538-4e1f-bfe7-ff8b109b77b5.json,ca5e619f-1538-4e1f-bfe7-ff8b109b77b5,json,718,2,2026-08-14T00:15:17
+2026-08-14T20:34:33.237879,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//2d3d62a4-a143-4398-ae22-f4826b42a13a.json,2d3d62a4-a143-4398-ae22-f4826b42a13a,json,2008,2,2026-08-14T00:03:02
+2026-08-14T20:34:34.827894,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//6cb37027-b16f-4d80-aa77-a0dfd2dfe872.json,6cb37027-b16f-4d80-aa77-a0dfd2dfe872,json,14,2,2026-08-14T10:00:04
+2026-08-14T20:34:37.620013,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//947d2ac1-3953-451f-8ae1-35e5c911978e.json,947d2ac1-3953-451f-8ae1-35e5c911978e,json,12602,2,2026-08-13T20:00:04
