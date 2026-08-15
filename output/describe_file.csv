@@ -2233,3 +2233,11 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-08-14T20:34:33.237879,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//2d3d62a4-a143-4398-ae22-f4826b42a13a.json,2d3d62a4-a143-4398-ae22-f4826b42a13a,json,2008,2,2026-08-14T00:03:02
 2026-08-14T20:34:34.827894,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//6cb37027-b16f-4d80-aa77-a0dfd2dfe872.json,6cb37027-b16f-4d80-aa77-a0dfd2dfe872,json,14,2,2026-08-14T10:00:04
 2026-08-14T20:34:37.620013,CIRCL OSINT Feed,misp,https://www.circl.lu/doc/misp/feed-osint//947d2ac1-3953-451f-8ae1-35e5c911978e.json,947d2ac1-3953-451f-8ae1-35e5c911978e,json,12602,2,2026-08-13T20:00:04
+2026-08-15T20:26:11.784263,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,1803,,
+2026-08-15T20:26:11.816243,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,6369,,
+2026-08-15T20:26:12.977901,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5652,,
+2026-08-15T20:26:13.131699,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-08-15T20:26:15.153656,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10442,,
+2026-08-15T20:26:15.208653,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//a736f67e-bf5c-4298-9fc5-fd24765f1cd5.json,a736f67e-bf5c-4298-9fc5-fd24765f1cd5,json,2148,2,2026-08-15T00:03:02
+2026-08-15T20:26:15.223442,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/8a7fb935-c8da-48af-9fbe-66a1d4d33493.json,8a7fb935-c8da-48af-9fbe-66a1d4d33493,json,1228,2,2026-08-15T00:03:07
+2026-08-15T20:26:15.247547,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/72f91294-c140-4bdc-8de9-1aa1b5e16849.json,72f91294-c140-4bdc-8de9-1aa1b5e16849,json,902,2,2026-08-15T00:15:19
