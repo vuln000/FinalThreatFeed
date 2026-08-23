@@ -2296,3 +2296,11 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-08-22T20:26:18.003267,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/2eb9934a-eaa4-4ec0-bec9-510219ee6ac9.json,2eb9934a-eaa4-4ec0-bec9-510219ee6ac9,json,647,2,2026-08-22T00:15:26
 2026-08-22T20:26:18.032434,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
 2026-08-22T20:26:19.527017,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10528,,
+2026-08-23T20:26:43.732383,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,1204,,
+2026-08-23T20:26:43.747838,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,4711,,
+2026-08-23T20:26:43.900059,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-08-23T20:26:44.750859,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10528,,
+2026-08-23T20:26:45.262115,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5711,,
+2026-08-23T20:26:46.976992,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/f3411e69-9e15-4014-9fd4-a6d2d3583f95.json,f3411e69-9e15-4014-9fd4-a6d2d3583f95,json,765,2,2026-08-23T00:03:08
+2026-08-23T20:26:46.986780,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/5f5b9511-49c6-4c1c-a50b-b29606eb0234.json,5f5b9511-49c6-4c1c-a50b-b29606eb0234,json,635,2,2026-08-23T00:15:21
+2026-08-23T20:26:47.011128,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//a7d8ae87-261d-4946-90e4-79cb1be1e798.json,a7d8ae87-261d-4946-90e4-79cb1be1e798,json,1412,2,2026-08-23T00:03:02
