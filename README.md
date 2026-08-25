@@ -18,7 +18,7 @@ Through a standardized data processing pipeline, FinalThreatFeed continuously ex
 - 🏷️ **Deep IOC Identification**: Automatically parse and classify key threat indicators such as IP, Domain, URL, enabling refined analysis.
 - 🤖 **LLM-Powered Unstructured Data Processing**: Leverages Google Gemini API to extract IOCs from unstructured data sources like RSS feeds, enhancing intelligence coverage.
 
-> 🕒 **Last Update Time:** `2026-08-24 20:34:10`
+> 🕒 **Last Update Time:** `2026-08-25 20:32:50`
 
 ## 📡 Feed Status Monitoring
 
