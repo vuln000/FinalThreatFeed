@@ -2347,3 +2347,8 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-08-29T02:45:57.170884,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
 2026-08-29T02:45:58.702221,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10577,,
 2026-08-29T02:45:58.853811,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/7a162a70-d3d8-46a7-a17f-63f38eb55b10.json,7a162a70-d3d8-46a7-a17f-63f38eb55b10,json,1295,2,2026-08-29T00:03:08
+2026-08-29T22:29:43.790376,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,6666,,
+2026-08-29T22:29:43.833193,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,2800,,
+2026-08-29T22:29:44.678207,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5697,,
+2026-08-29T22:29:46.292450,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10584,,
+2026-08-29T22:29:46.374842,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
