@@ -2501,3 +2501,10 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-09-18T22:24:10.612318,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/23bd424e-5faa-4d3a-ac71-5989c164a71c.json,23bd424e-5faa-4d3a-ac71-5989c164a71c,json,2086,2,2026-09-18T00:03:08
 2026-09-18T22:24:10.634220,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/d1412fed-276b-4435-a741-25f846663c36.json,d1412fed-276b-4435-a741-25f846663c36,json,756,2,2026-09-18T00:15:20
 2026-09-18T22:24:12.942707,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10740,,
+2026-09-19T22:14:27.188688,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,6371,,
+2026-09-19T22:14:27.250653,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,11921,,
+2026-09-19T22:14:28.042726,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5724,,
+2026-09-19T22:14:29.227027,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10740,,
+2026-09-19T22:14:29.306575,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-09-19T22:14:29.377073,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/6f971b8c-a479-488d-89f6-e561d003397b.json,6f971b8c-a479-488d-89f6-e561d003397b,json,658,2,2026-09-19T00:03:10
+2026-09-19T22:14:29.433762,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/975b9fae-2bea-4e0a-a987-1dc29afab2dc.json,975b9fae-2bea-4e0a-a987-1dc29afab2dc,json,721,2,2026-09-19T00:15:17
