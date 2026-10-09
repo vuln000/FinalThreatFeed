@@ -2672,3 +2672,10 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-10-09T00:12:16.193657,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5721,,
 2026-10-09T00:12:16.433853,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//f3b65300-389c-42fb-b110-11b7263d368c.json,f3b65300-389c-42fb-b110-11b7263d368c,json,1856,2,2026-10-08T00:03:02
 2026-10-09T00:12:17.837251,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/068226de-df84-4f54-8cd5-7afdc7094b9d.json,068226de-df84-4f54-8cd5-7afdc7094b9d,json,1100,2,2026-10-08T00:15:21
+2026-10-09T23:53:14.729333,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10936,,
+2026-10-09T23:53:14.761258,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,4686,,
+2026-10-09T23:53:15.233261,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5720,,
+2026-10-09T23:53:15.254431,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,9851,,
+2026-10-09T23:53:15.450795,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//5e3d855c-d710-4802-9453-353e18b84803.json,5e3d855c-d710-4802-9453-353e18b84803,json,2044,2,2026-10-09T00:03:02
+2026-10-09T23:53:15.496376,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-10-09T23:53:15.776574,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/436ad646-d799-4410-9338-f979db281ff0.json,436ad646-d799-4410-9338-f979db281ff0,json,2901,2,2026-10-09T00:15:22
