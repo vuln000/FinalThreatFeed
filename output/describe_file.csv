@@ -2695,3 +2695,14 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-10-11T23:30:44.139964,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/7ac5c427-dbe1-41b6-bcbc-b3b0468a73a4.json,7ac5c427-dbe1-41b6-bcbc-b3b0468a73a4,json,792,2,2026-10-11T00:03:07
 2026-10-11T23:30:50.080572,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10955,,
 2026-10-11T23:30:50.112845,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/a72d9cba-4927-46ae-9f28-4d1bbf9e5515.json,a72d9cba-4927-46ae-9f28-4d1bbf9e5515,json,987,2,2026-10-11T00:15:24
+2026-10-13T01:54:08.247301,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,10979,,
+2026-10-13T01:54:08.269477,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,5079,,
+2026-10-13T01:54:09.383543,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5723,,
+2026-10-13T01:54:09.497442,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-10-13T01:54:09.595175,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/2f25af12-5ca0-4e42-ae79-ae1aeff2cd20.json,2f25af12-5ca0-4e42-ae79-ae1aeff2cd20,json,1192,2,2026-10-13T00:03:07
+2026-10-13T01:54:09.630742,abuse.ch,misp,https://threatfox.abuse.ch/downloads/misp/d2df68b4-c47e-434f-ad59-ec22de5a5720.json,d2df68b4-c47e-434f-ad59-ec22de5a5720,json,782,2,2026-10-12T00:03:07
+2026-10-13T01:54:11.792921,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,10965,,
+2026-10-13T01:54:11.843368,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/bc94506a-d987-4bec-884a-0391753db2c7.json,bc94506a-d987-4bec-884a-0391753db2c7,json,826,2,2026-10-12T00:15:26
+2026-10-13T01:54:11.879918,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//fbe04c79-57a2-42f4-9d7e-7427505983c2.json,fbe04c79-57a2-42f4-9d7e-7427505983c2,json,1588,2,2026-10-12T00:03:02
+2026-10-13T01:54:11.983802,abuse.ch-Bazaar,misp,https://bazaar.abuse.ch/downloads/misp//5c75b03c-bdc3-4411-9054-583753090f11.json,5c75b03c-bdc3-4411-9054-583753090f11,json,2528,2,2026-10-13T00:03:02
+2026-10-13T01:54:12.057147,abuse.ch-URLhasus,misp,https://urlhaus.abuse.ch/downloads/misp/5b1eab51-d167-4c00-a2da-26b311f954e4.json,5b1eab51-d167-4c00-a2da-26b311f954e4,json,2916,2,2026-10-13T00:15:26
