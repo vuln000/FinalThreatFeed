@@ -18,7 +18,7 @@ Through a standardized data processing pipeline, FinalThreatFeed continuously ex
 - 🏷️ **Deep IOC Identification**: Automatically parse and classify key threat indicators such as IP, Domain, URL, enabling refined analysis.
 - 🤖 **LLM-Powered Unstructured Data Processing**: Leverages Google Gemini API to extract IOCs from unstructured data sources like RSS feeds, enhancing intelligence coverage.
 
-> 🕒 **Last Update Time:** `2026-10-20 23:02:24`
+> 🕒 **Last Update Time:** `2026-10-21 23:05:29`
 
 ## 📡 Feed Status Monitoring
 
@@ -32,9 +32,9 @@ Through a standardized data processing pipeline, FinalThreatFeed continuously ex
 | 🟢 | **IPsum-l4** | `text` | https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt |
 | 🟢 | **IPsum-l5** | `text` | https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt |
 | 🟢 | **CIRCL OSINT Feed** | `misp` | https://www.circl.lu/doc/misp/feed-osint/ |
-| 🟢 | **abuse.ch** | `misp` | https://threatfox.abuse.ch/downloads/misp |
-| 🟢 | **abuse.ch-Bazaar** | `misp` | https://bazaar.abuse.ch/downloads/misp/ |
-| 🟢 | **abuse.ch-URLhasus** | `misp` | https://urlhaus.abuse.ch/downloads/misp |
+| 🔴 | **abuse.ch** | `misp` | https://threatfox.abuse.ch/downloads/misp |
+| 🔴 | **abuse.ch-Bazaar** | `misp` | https://bazaar.abuse.ch/downloads/misp/ |
+| 🔴 | **abuse.ch-URLhasus** | `misp` | https://urlhaus.abuse.ch/downloads/misp |
 | 🟢 | **Botvrij.eu** | `misp` | https://www.botvrij.eu/data/feed-osint |
 | 🟢 | **SecurityVedors** | `rss` | https://raw.githubusercontent.com/EndlessFractal/Threat-Intel-Feed/main/feed.xml |
 
