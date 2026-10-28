@@ -18,13 +18,13 @@ Through a standardized data processing pipeline, FinalThreatFeed continuously ex
 - 🏷️ **Deep IOC Identification**: Automatically parse and classify key threat indicators such as IP, Domain, URL, enabling refined analysis.
 - 🤖 **LLM-Powered Unstructured Data Processing**: Leverages Google Gemini API to extract IOCs from unstructured data sources like RSS feeds, enhancing intelligence coverage.
 
-> 🕒 **Last Update Time:** `2026-10-27 23:38:28`
+> 🕒 **Last Update Time:** `2026-10-28 23:56:02`
 
 ## 📡 Feed Status Monitoring
 
 | Status | Feed Name | Format Type | Source Address (URL) |
 |:---:|---|:---:|---|
-| 🔴 | **abuse.ch-SSL** | `csv` | https://sslbl.abuse.ch/blacklist/sslblacklist.csv |
+| 🟢 | **abuse.ch-SSL** | `csv` | https://sslbl.abuse.ch/blacklist/sslblacklist.csv |
 | 🟢 | **Alienvault-IP-Reputation** | `csv` | https://reputation.alienvault.com/reputation.generic |
 | 🔴 | **Phishtank** | `csv` | https://data.phishtank.com/data/online-valid.csv |
 | 🟢 | **mining-pool-block-list** | `csv` | https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv |
