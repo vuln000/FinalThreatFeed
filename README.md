@@ -18,7 +18,7 @@ Through a standardized data processing pipeline, FinalThreatFeed continuously ex
 - 🏷️ **Deep IOC Identification**: Automatically parse and classify key threat indicators such as IP, Domain, URL, enabling refined analysis.
 - 🤖 **LLM-Powered Unstructured Data Processing**: Leverages Google Gemini API to extract IOCs from unstructured data sources like RSS feeds, enhancing intelligence coverage.
 
-> 🕒 **Last Update Time:** `2026-11-07 23:30:45`
+> 🕒 **Last Update Time:** `2026-11-08 23:30:11`
 
 ## 📡 Feed Status Monitoring
 
@@ -26,7 +26,7 @@ Through a standardized data processing pipeline, FinalThreatFeed continuously ex
 |:---:|---|:---:|---|
 | 🟢 | **abuse.ch-SSL** | `csv` | https://sslbl.abuse.ch/blacklist/sslblacklist.csv |
 | 🟢 | **Alienvault-IP-Reputation** | `csv` | https://reputation.alienvault.com/reputation.generic |
-| 🟢 | **Phishtank** | `csv` | https://data.phishtank.com/data/online-valid.csv |
+| 🔴 | **Phishtank** | `csv` | https://data.phishtank.com/data/online-valid.csv |
 | 🟢 | **mining-pool-block-list** | `csv` | https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv |
 | ⚫ | **Tor_Exit_Nodes** | `text` | https://check.torproject.org/torbulkexitlist |
 | 🟢 | **IPsum-l4** | `text` | https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt |
