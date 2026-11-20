@@ -2923,3 +2923,8 @@ download_time,name,source_format,url,event_uuid,data_type,data_size,threat_level
 2026-11-19T01:46:52.887795,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5022,,
 2026-11-19T01:46:54.626707,abuse.ch-SSL,csv,https://sslbl.abuse.ch/blacklist/sslblacklist.csv,,csv,11300,,
 2026-11-19T01:46:59.911044,Phishtank,csv,https://data.phishtank.com/data/online-valid.csv,,csv,43742,,
+2026-11-20T01:42:12.671649,IPsum-l4,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,,text,8452,,
+2026-11-20T01:42:12.708063,IPsum-l5,text,https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,,text,2874,,
+2026-11-20T01:42:12.902855,Alienvault-IP-Reputation,csv,https://reputation.alienvault.com/reputation.generic,,csv,609,,
+2026-11-20T01:42:13.867864,mining-pool-block-list,csv,https://raw.githubusercontent.com/vuln000/mining-pool-block-list/refs/heads/main/mining_pools.csv,,csv,5014,,
+2026-11-20T01:42:23.097089,Phishtank,csv,https://data.phishtank.com/data/online-valid.csv,,csv,43524,,
